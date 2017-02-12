@@ -1,6 +1,6 @@
 <div id="hypercomments_widget" class="js-hypercomments-widget invisible"></div>
 
-# Трудове навчання (В розробці)
+# Трудове навчання
 
 <hr>
 
@@ -11,9 +11,7 @@
 5. [Інструкція з використання платформи](#instruction)
 
 
-Вітаємо на сторінці  онлайн проекту з розвантаження і осучаснення програм початкової школи. Це спільний проект Міністерства освіти і науки та соціальної платформи [www.ed-era.com](https://www.ed-era.com/).
-
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/dxBTgbPOMMo" frameborder="0" allowfullscreen></iframe></center>   
+Вітаємо на сторінці  онлайн проекту з розвантаження і осучаснення програм початкової школи. Це спільний проект Міністерства освіти і науки та соціальної платформи [www.ed-era.com](https://www.ed-era.com/).  
 
 ##Наша мета  {#zvernennya}
 * започаткувати справжнє публічне обговорення навчальних програм;
