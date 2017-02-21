@@ -2,7 +2,7 @@
 
 # Ознайомлення з професіями
 
-Eлектрик, майстер із ремонту електропобутової техніки, офіціант, продавець, касир.
+Професії деревообробної промисловості.
 
 <div class="js-hypercomments-container">
 <a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>
